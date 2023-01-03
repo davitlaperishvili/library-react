@@ -14,7 +14,7 @@ input[type="url"],
 input[type="week"],
 textarea{
 	width: 100%;
-	height: 45px;
+	height: 30px;
 	padding: 0 15px;
 	color: $cbase;
 	background-color: $cwhite;
@@ -40,7 +40,7 @@ a{
 		padding: 0 20px;
 		color: $cwhite;
 		text-align: center;
-		background-color: $ccorp;
+		background-color: $cdark;
 		border-radius: $bdrm;
 		cursor: pointer;
 		&.red{
@@ -460,7 +460,6 @@ div.checker_wrap{
 	}
 }
 div.form_item{
-	margin-bottom: 20px;
 	div.form_checkers{
 		display: flex;
 		flex-wrap: wrap;

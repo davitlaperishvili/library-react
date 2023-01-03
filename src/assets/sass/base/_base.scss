@@ -134,3 +134,18 @@ div.container{
 		background: $ccorp;
 	}
 }
+
+.theme_button{
+	a{
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding: 5px 10px;
+		background-color: $cwhite;
+		color: $cdark;
+		transition: 0.4s;
+		&:hover{
+			background-color: $ccorp;
+		}
+	}
+}
