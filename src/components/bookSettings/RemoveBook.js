@@ -21,9 +21,7 @@ export default function RemoveBook({ bookID }) {
     }
     return (
         <div className="theme_button">
-            <a href="javascript:void(0)" onClick={handleRemoveBook}>
-                Remove
-            </a>
+            <button onClick={handleRemoveBook}>Remove</button>
         </div>
     );
 }

@@ -5,7 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 function App() {
     return (
         <>
-            <ToastContainer autoClose={2000} />
+            <ToastContainer autoClose={1000} />
             <div className="App">
                 <div className="library_app">
                     <h1 className="app_header">React Library App</h1>
