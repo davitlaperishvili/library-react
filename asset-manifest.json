@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/library-react/static/css/main.88887335.css",
+    "main.css": "/library-react/static/css/main.5dd250a8.css",
     "main.js": "/library-react/static/js/main.5a1cb6e1.js",
     "static/media/Roboto-Medium.ttf": "/library-react/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
     "static/media/Roboto-Regular.ttf": "/library-react/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/Roboto-Bold.ttf": "/library-react/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
     "static/media/remixicon.woff2": "/library-react/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/library-react/index.html",
-    "main.88887335.css.map": "/library-react/static/css/main.88887335.css.map",
+    "main.5dd250a8.css.map": "/library-react/static/css/main.5dd250a8.css.map",
     "main.5a1cb6e1.js.map": "/library-react/static/js/main.5a1cb6e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.88887335.css",
+    "static/css/main.5dd250a8.css",
     "static/js/main.5a1cb6e1.js"
   ]
 }
