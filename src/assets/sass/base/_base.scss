@@ -145,6 +145,9 @@ div.container{
 		color: $cdark;
 		transition: 0.4s;
 		cursor: pointer;
+		@media(max-width: 1280px){
+			font-size: 12px;
+		}
 		&:hover{
 			background-color: $ccorp;
 		}

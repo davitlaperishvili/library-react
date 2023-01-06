@@ -1,10 +1,16 @@
-@import "../../index.scss";
+@import "../../assets/sass/base/general.scss";
 
 .add_book{
     margin: 0 100px 50px;
     padding: 30px 20px;
     border-radius: 20px;
     background-color: darken($ccorp, 15);
+    @media(max-width: 1024px){
+        margin: 0 70px 25px;
+    }
+    @media(max-width: 768px){
+        margin: 0 0 20px;
+    }
     .form_items{
         display: flex;
         flex-direction: column;
